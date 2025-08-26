@@ -1,6 +1,6 @@
 # 🎵 Mini Player - Sistema de Streaming de Mídias Sonoras
-
 Projeto desenvolvido em Java para a disciplina de Programação Orientada a Objetos, simulando as funcionalidades básicas de uma plataforma de streaming de músicas.
+<br>
 <br>
 
 ## 📋 Funcionalidades
