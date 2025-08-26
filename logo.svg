@@ -1,0 +1,29 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1DB954" />
+      <stop offset="100%" stop-color="#0f8348" />
+    </linearGradient>
+    <linearGradient id="purpleGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8A2BE2" />
+      <stop offset="100%" stop-color="#6A0DAD" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Fundo circular -->
+  <circle cx="150" cy="150" r="140" fill="url(#greenGradient)" stroke="#8A2BE2" stroke-width="3"/>
+  
+  <!-- Onda sonora 1 -->
+  <path d="M100,120 Q125,100 150,120 T200,120" stroke="url(#purpleGradient)" stroke-width="8" fill="none"/>
+  
+  <!-- Onda sonora 2 -->
+  <path d="M90,150 Q125,130 150,150 T210,150" stroke="url(#purpleGradient)" stroke-width="8" fill="none"/>
+  
+  <!-- Onda sonora 3 -->
+  <path d="M80,180 Q125,160 150,180 T220,180" stroke="url(#purpleGradient)" stroke-width="8" fill="none"/>
+  
+  <!-- Texto do projeto -->
+  <text x="150" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">
+    MINI SPOTIFY
+  </text>
+</svg>
