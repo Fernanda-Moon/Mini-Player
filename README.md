@@ -1,6 +1,8 @@
 # 🎵 Mini Player - Sistema de Streaming de Mídias Sonoras
 Projeto desenvolvido em Java para a disciplina de Programação Orientada a Objetos, simulando as funcionalidades básicas de uma plataforma de streaming de músicas.
 <br>
+<img width="1024" height="1024" alt="ChatGPT Image 26 de ago  de 2025, 15_45_50" src="https://github.com/user-attachments/assets/061806b9-1db6-4a1e-a565-84a320a69ef2" />
+
 <br>
 
 ## 📋 Funcionalidades
